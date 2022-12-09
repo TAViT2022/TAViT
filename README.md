@@ -1,5 +1,5 @@
 ![Image of The Proposed method](figs/method.png)
-# TAViT: Privacy-preserving Task-Agnostic Vision Transformer for Image Processing
+# TAViT: Task-Agnostic Vision Transformer for Distributed Learning of Image Processing
 
 This repository is the official implementation of TAViT. 
 
@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1j_EXwzkMhl2y0TCsOnwg68lbYL0Q07RN?usp=sha
 
 Copy downloaded checkpoint file to proper directory under 'inference/checkpoints'.
 
-## Results
+## Results (three cycles)
 
 **Deblocking**
 ![visual_deblock](figs/results_deblock.png)
